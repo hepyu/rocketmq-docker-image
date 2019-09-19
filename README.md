@@ -22,4 +22,4 @@ mv rocketmq-all-4.3.2-bin-release rocketmq
 
 执行脚本制作镜像：
 
-sh ./build-x.x.x.sh
+sh ./image-build/build-x.x.x.sh
