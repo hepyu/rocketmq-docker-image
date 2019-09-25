@@ -16,9 +16,7 @@ http://dist.apache.org/repos/dist/release/rocketmq/${ROCKETMQ_VERSION}/rocketmq-
 
 wget https://dist.apache.org/repos/dist/release/rocketmq/4.3.2/rocketmq-all-4.3.2-bin-release.zip
 
-mv rocketmq-all-4.3.2-bin-release.zip rocketmq.zip
-
-mv rocketmq-all-4.3.2-bin-release rocketmq
+解压后的文件夹重命名为rocketmq，放到目录image-build下。
 
 执行脚本制作镜像：
 
