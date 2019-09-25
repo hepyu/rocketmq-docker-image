@@ -1,6 +1,6 @@
 本例是镜像半自动制作方法，根据官方修改。
 
-官方rocketmq-docker提供的制作方法不能用于生产环境，需要修改：
+官方rocketmq-docker提供的制作方法有些地方不适用于生产环境(我制作的时间点)，需要修改：
 
 https://github.com/apache/rocketmq-docker
 
